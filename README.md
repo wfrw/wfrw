@@ -1,7 +1,14 @@
 <p align="center">
   <img src="https://i.ibb.co/pZzyhgP/161799352-1-modified.png" alt="Profile Picture" width="200" height="200">
 </p>
+
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+</p>
+
+<p align="center">
+  <img alt="Discord" src="https://img.shields.io/badge/discord-pay26.-white">
+  <img alt="X (formerly Twitter) Follow" src="https://camo.githubusercontent.com/656c558557f32053b698ab33a4fc292cefa32933419a24345b87819baca9f802/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f706f6c6f5f77667277">
   <img src="https://komarev.com/ghpvc/?username=wfrw&style=flat-square&color=blue" alt=""/>
 </p>
 
@@ -15,7 +22,13 @@ Welcome to Polo's GitHub profile! I’m Polo, a Python developer with a passion 
 
 I specialize in Python programming 🐍 and enjoy developing custom tools and cheats for popular games. Whether it's enhancing gameplay or exploring new features, I’m always experimenting and coding. 💻🔧
 
-## Projects
+## Language's
+<div>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" title="React" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" title="JavaScript" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+</div>
 
 ### CSGO Cheats 🔫
 
@@ -40,6 +53,3 @@ Feel free to reach out if you have any questions or collaboration opportunities:
 - **Twitter**: [@polo_wfrw](https://twitter.com/polo_wfrw) 🐦
 
 
-## License 📜
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
