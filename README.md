@@ -2,12 +2,15 @@
   <img src="https://i.ibb.co/pZzyhgP/161799352-1-modified.png" alt="Profile Picture" width="200" height="200">
 </p>
 
+
 <p align="center">
+  <img src="https://raw.githubusercontent.com/hoffstadt/DearPyGui/assets/readme/first_app.gif" width=50, height=100>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+  <img src="https://i.ibb.co/SXF9BSj/image.png" width=200, height=100>
 </p>
 
 <p align="center">
-  <img alt="Discord" src="https://img.shields.io/badge/discord-pay26.-white">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-polo__dev-white">
   <img alt="X (formerly Twitter) Follow" src="https://camo.githubusercontent.com/656c558557f32053b698ab33a4fc292cefa32933419a24345b87819baca9f802/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f706f6c6f5f77667277">
   <img src="https://komarev.com/ghpvc/?username=wfrw&style=flat-square&color=blue" alt=""/>
 </p>
@@ -42,14 +45,13 @@ I specialize in Python programming 🐍 and enjoy developing custom tools and ch
 
 ## Technologies ⚙️
 
-- **Programming Language**: Python 🐍
-- **Libraries & Frameworks**: PyAutoGUI, OpenCV, DearPyGui, and more
-- **Tools**: Git, VSCode, and various debugging tools
+- **Programming Language**: Python, C++,
+- **Libraries & Frameworks**: PyAutoGUI, Pymem, OpenCV, DearPyGui, DearImGui, and MinHook.
+- **Tools**: Git, VSCode, Visual Studio, and various debugging tools
 
 ## Contact 📫
 
 Feel free to reach out if you have any questions or collaboration opportunities:
 
 - **Twitter**: [@polo_wfrw](https://twitter.com/polo_wfrw) 🐦
-
 
