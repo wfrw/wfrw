@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wfrw&style=flat-square&color=gray" alt=""/>
   <img alt="Discord" src="https://img.shields.io/badge/Discord-polo__dev-white">
-  <img alt="X (formerly Twitter) Follow" src="https://camo.githubusercontent.com/656c558557f32053b698ab33a4fc292cefa32933419a24345b87819baca9f802/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f706f6c6f5f77667277">
+src="https://camo.githubusercontent.com/656c558557f32053b698ab33a4fc292cefa32933419a24345b87819baca9f802/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f706f6c6f5f77667277">
 </p>
 
 
